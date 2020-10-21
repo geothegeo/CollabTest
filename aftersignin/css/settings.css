@@ -1,0 +1,19 @@
+
+
+#userSettingsNavBar {
+	background-color: #a4d0f0;;
+}
+
+#userSettingsNavBar a {
+	color: #000000;
+}
+
+#userSettingsNavBar a:hover {
+	text-decoration: underline;
+}
+
+#userSettingsNavBar a.active {
+	background-color: white;
+	padding-right: 100%;
+	margin-right: -100%;
+}

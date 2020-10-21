@@ -1,0 +1,51 @@
+----------- TEAM CONTRIBUTIONS ------------
+
+TheCollegeNote/
+| -- aftersignin/
+     | -- calendar.html -- George
+     | -- css/
+          | -- bootstrap.theme.css -- 
+          | -- bootstrap-theme.css.map --
+          | -- bootstrap-theme.min.css --
+          | -- bootstrap.css --
+          | -- bootstrap.css.map --
+          | -- bootstrap.min.css --
+          | -- main.css --
+          | -- owl-carousel.css --
+          | -- settings.css -- George / Thedo
+          | -- bootstrap-theme.css.map --
+     | -- customization.html -- George
+     | -- fonts/
+          | -- glyphicons-halflings-regular.eot --
+          | -- glyphicons-halflings-regular.svg --
+          | -- glyphicons-halflings-regular.ttf --
+          | -- glyphicons-halflings-regular.woff --
+     | -- img/
+     | -- js/
+          | -- java.js --
+          | -- main.js --
+          | -- plugins.js --
+          | -- vendor/
+               | -- bootstrap.js --
+               | -- bootstrap.min.js --
+               | -- jquery-1.11.2.min.js --
+               | -- modernizr-2.8.3-respond-1.4.2.min.js --
+     | -- settings/
+          | -- settings-password.html -- George / Thedo
+          | -- settings-profile.php -- George / Thedo / Trent
+| -- assets/
+     | -- css/
+          | -- templatemo-breezed.css -- Reshmi / Noor          | -- owl-carousel.css --          | -- lightbox.css --          | -- font-awesome.css --          | -- flex-slider.css --          | -- bootstrap.min.css --
+     | -- fonts/
+	  | -- Flaticon.woff --          | -- flexslider-icon.eot --          | -- flexslider-icon.svg --          | -- flexslider-icon.ttf --          | -- flexslider-icon.woff --          | -- fontawesome-webfont.eot --          | -- fontawesome-webfont.svg --          | -- fontawesome-webfont.ttf --          | -- fontawesome-webfont.woff --          | -- fontawesome-webfont.woff2 --          | -- FontAwesome.otf --          | -- slick.eot --          | -- slick.svg --          | -- slick.ttf --          | -- slick.woff --
+     | -- images/
+          | -- close.png --          | -- contact-info-01.png --          | -- contact-info-02.png --          | -- contact-info-03.png --          | -- dotted-map-bg.png --          | -- features-icon-1.png --          | -- loading.gif --          | -- login_back.jpg --          | -- login_back2.jpg --          | -- login_back3.jpg --          | -- member-item-01.jpg --          | -- member-item-02.jpg --          | -- member-item-03.jpg --          | -- member-item-04.jpg --          | -- member-item-05.jpg --          | -- member-item-06.jpg --          | -- next.png --          | -- prev.png --          | -- project-big-item-01.jpg --          | -- project-big-item-02.jpg --          | -- project-big-item-03.jpg --          | -- project-big-item-04.jpg --          | -- project-big-item-05.jpg --          | -- project-big-item-06.jpg --          | -- project-item-01.jpg --          | -- project-item-02.jpg --          | -- project-item-03.jpg --          | -- project-item-04.jpg --          | -- project-item-05.jpg --          | -- project-item-06.jpg --          | -- service-item-01.png --          | -- signup_back.jpg --          | -- slide-01.jpg --          | -- slide-02.jpg --          | -- slide-03.jpg -- 
+     | -- js/
+          | -- bootstrap.min.js --          | -- custom.js --          | -- imgfix.min.js --          | -- isotope.js --          | -- jquery-2.1.0.min.js --          | -- jquery.counterup.min.js --          | -- lightbox.js --          | -- owl-carousel.js --          | -- popper.js --          | -- scrollreveal.min.js --          | -- slick.js --          | -- waypoints.min.js -- 
+     | -- php/
+          | -- add.php -- Trent
+          | -- db.php -- George / Trent
+          | -- login.php -- Trent
+| -- index.html -- Reshmi / Noor
+| -- db.sql -- George / Trent
+
